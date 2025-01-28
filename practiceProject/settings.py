@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 # Here new installed applications are added
+#THIS tells django internally about installed apps
 # we have added files from "django.contrib.staticfiles"
 INSTALLED_APPS = [
     "django.contrib.admin",
